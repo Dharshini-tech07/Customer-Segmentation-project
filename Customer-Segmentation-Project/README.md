@@ -33,7 +33,7 @@ The project generates a scatter plot where:
 - The visualization helps identify customer groups based on their purchasing patterns.
 
 ### Output Screenshot
-![Customer Segmentation Output](Customer-Segmentation-Project/customer_segmentation_output.png)
+![Customer Segmentation Output](customer_segmentation_output.png)
 
 ## 📁 Project Structure
 
